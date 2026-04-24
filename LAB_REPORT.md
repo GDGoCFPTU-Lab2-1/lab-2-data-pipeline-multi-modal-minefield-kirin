@@ -2,8 +2,9 @@
 
 **Họ và tên:** Nguyễn Hữu Huy  
 **MSSV:** 2A202600166  
-**Ngày thực hiện:** 24/04/2026
-
+**Ngày thực hiện:** 24/04/2026\
+Email: huyhuu0107@gmail.com  
+github-username: kirin017   
 ---
 
 ## 1. Mục tiêu
